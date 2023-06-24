@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+main {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 20em 1fr;
+}
